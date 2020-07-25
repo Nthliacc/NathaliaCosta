@@ -1,5 +1,5 @@
 import React from 'react';
-import { PerfilContainer, ImagemPerfil ,ImagemIcon } from '../../styled';
+import { PerfilContainer, ImagemPerfil ,ImagemIcon } from './styled';
 import perfil from '../../Imagens/ntthl.jpeg';
 import linkd from '../../Imagens/linked.png';
 import github from '../../Imagens/github.jpg';

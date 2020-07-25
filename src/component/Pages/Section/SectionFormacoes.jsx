@@ -1,5 +1,5 @@
 import React from 'react';
-import { FormacaoContainer } from '../../styled';
+import { FormacaoContainer } from './styled';
 
 function SectionFormacao() {
   return (
