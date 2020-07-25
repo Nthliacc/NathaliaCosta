@@ -3,7 +3,7 @@ import { FooterContainer } from './styled';
 
 function Footer() {
   return (
-    <FooterContainer className="Footer">
+    <FooterContainer id="Contato">
       <input placeholder="Digite seu nome"/>
       <input placeholder="Coloque seu email"/>
       <input placeholder="Escreva sua mensagem ..."/>

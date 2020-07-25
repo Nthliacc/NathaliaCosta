@@ -3,7 +3,7 @@ import { ProjetosContainer } from './styled';
 
 function SectionProjetos() {
   return (
-    <ProjetosContainer className="SectionProjetos">
+    <ProjetosContainer id="SectionProjetos">
       <div>
         <h1>PROJETOS</h1>
       </div>

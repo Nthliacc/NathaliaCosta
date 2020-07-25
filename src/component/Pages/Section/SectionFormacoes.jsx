@@ -3,7 +3,7 @@ import { FormacaoContainer } from './styled';
 
 function SectionFormacao() {
   return (
-    <FormacaoContainer className="SectionFormacao">
+    <FormacaoContainer id='SectionFormacao'>
         <div>
             <h1>FORMAÇÕES</h1>
         </div>
