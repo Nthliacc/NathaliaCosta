@@ -1,3 +1,5 @@
+import styled from 'styled-components';
+
 // Section
 export const SectionContainer = styled.div`
   width: 100%;
