@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavContainer, LinkNav } from '../../styled';
+import { NavContainer, LinkNav } from './styled';
 
 function Nav() {
     return (

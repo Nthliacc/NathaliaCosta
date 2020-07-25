@@ -1,5 +1,5 @@
 import React from "react";
-import {ProjetosContainer} from './styled';
+import { ProjetosContainer } from './styled';
 
 function SectionProjetos() {
   return (
