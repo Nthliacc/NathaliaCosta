@@ -2,6 +2,8 @@
 <p>
   <br>
 	<samp>Desenvolvedora Full Stack e Nordestina (Natal-RN)...</samp>
+	<br>
+	<samp>Atualmente trabalhando como Desenvolvedora Front-End. </samp>
   <br>
 </p>
 <hr>
