@@ -37,6 +37,11 @@ export const FormacaoContainer = styled.div`
   justify-content: space-around;
   align-items: center;
 `;
+export const Titulo = styled.div`
+`;
+export const Bloco = styled.div`
+  margin: 10%;
+`;
 
 // Section Projetos
 export const ProjetosContainer = styled.div`
